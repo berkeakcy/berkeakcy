@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I'm Berke. I'm computer engineering student at Beykent University. I develop mobile applications and I improve myself in this area. I have started mobile application development with android programming. I’m currently learning Kotlin
+I'm Berke. I'm computer engineering student at Beykent University. I develop mobile applications and I improve myself in this area. I have started mobile application development with android programming. I’m currently learning IOS programming
 
 ### How to reach me
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mustafa-berke-akçay-6a2170225/"><img width="32" height="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
+<p align="left">
+<a href="https://linkedin.com/in/mustafa-berke-akcay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-berke-akcay" height="30" width="40" /></a>
+</p>
 
 ### Tech I Use
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 <p align="center" dir="auto"> <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;" align = "left"> </a>  
 <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;" align = "left"> </a>
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;" align = "left"> </a>
