@@ -4,7 +4,10 @@ I'm Berke. I'm computer engineering student at Beykent University. I develop mob
 
 ### How to reach me
 <p align="left">
-<a href="https://linkedin.com/in/mustafa-berke-akcay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-berke-akcay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafa-berke-akcay" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mustafa-berke-akcay" /></a>
+</p>
+<p>
+<a href="mailto: mustafa.berke.akcay@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mustafa-berke-akcay"/></a>
 </p>
 
 ### Tech I Use
@@ -15,6 +18,10 @@ I'm Berke. I'm computer engineering student at Beykent University. I develop mob
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
